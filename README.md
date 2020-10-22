@@ -6,7 +6,7 @@
 * Данные: [dataset.csv](https://github.com/Kostrykina18/NLP_HSE_project/blob/main/dataset.csv)
 
 ## Данные
-Корпус основан на [RuTweetCorp](https://study.mokoron.com/) и содержит 10000 твитов
+Корпус основан на [RuTweetCorp](https://study.mokoron.com/) и содержит 10 000 твитов
 ## Предобработка
 Данные были лемматизированны и рамечены по частям речи с помощью [pymorphy2](https://github.com/kmike/pymorphy2/tree/92d546f042ff14601376d3646242908d5ab786c1)
 ## **Части речи**
