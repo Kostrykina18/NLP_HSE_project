@@ -1,6 +1,10 @@
 # NLP_HSE_project
 Проект по предмету Автоматическая обработка естественного языка 2020
 
+* Функция для поиска по корпусу: [corpus_search.ipynb](https://github.com/Kostrykina18/NLP_HSE_project/blob/main/corpus_search.ipynb)
+* Предобработка данных: [make_dataset.ipynb](https://github.com/Kostrykina18/NLP_HSE_project/blob/main/make_dataset.ipynb)
+* Данные: [dataset.csv](https://github.com/Kostrykina18/NLP_HSE_project/blob/main/dataset.csv)
+
 ## Данные
 Корпус основан на [RuTweetCorp](https://study.mokoron.com/) и содержит 10000 твитов
 ## Предобработка
@@ -53,5 +57,5 @@ search('ADVB жить')
 ```
 любые комбинации предыдущих запросов, максимум – 3 слова
 ```
-search('мой+NPRO' 'ADJF NOUN')
+search('девочка+NOUN ADJF INTJ')
 ```
