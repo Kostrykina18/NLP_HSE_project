@@ -1,6 +1,8 @@
 # NLP_HSE_project
 Проект по предмету Автоматическая обработка естественного языка 2020
 
+Сайт: http://thebestprojectever.pythonanywhere.com/
+
 * Функция для поиска по корпусу: [corpus_search.ipynb](https://github.com/Kostrykina18/NLP_HSE_project/blob/main/corpus_search.ipynb)
 * Предобработка данных: [make_dataset.ipynb](https://github.com/Kostrykina18/NLP_HSE_project/blob/main/make_dataset.ipynb)
 * Данные: [dataset.csv](https://github.com/Kostrykina18/NLP_HSE_project/blob/main/dataset.csv)
